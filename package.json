@@ -1,0 +1,10 @@
+{
+  "name": "mini-program-file-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "lib/index.js",
+  "dependencies": {
+    "commander": "^3.0.2"
+  }
+}
